@@ -1,2 +1,2 @@
 # alinealegre.github.io
-My portifolio
+My portfolio
